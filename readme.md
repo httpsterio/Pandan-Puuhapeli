@@ -1,6 +1,6 @@
 ## Pandan Puuhapeli
 
-![](https://github.com/httpsterio/Pandan-Puuhapeli/blob/main/panda.png)
+![](https://github.com/httpsterio/Pandan-Puuhapeli/blob/main/src/panda.png)
 
 Flash (AS2) -pohjainen lapsille suunnattu opetuspeli.
 
